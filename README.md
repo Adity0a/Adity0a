@@ -232,23 +232,23 @@
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
   
-<a href="mailto:suhaibking310@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="suhaibking310@gmail.com" style="margin-bottom: 5px;" />
+<a href="mailto:adityamishra1339@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="adityamishra1339@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://x.com/Suhaib_King" target="_blank">
-<img src="./twitter.png" width=50 height=50 alt="Suhaib" style="margin-bottom: 5px;" />
+<a href="https://x.com/aadiityaam68002" target="_blank">
+<img src="./twitter.png" width=50 height=50 alt="aadiityaam68002" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/suhaib_s_z" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="suhaib_s_z" style="margin-bottom: 5px;" />
+<a href="https://www.instagram.com/adit.yaamishra/" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="adit.yaamishra" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.githubcom/Suhaib3100" target="_blank">
-<img src="./github.png" width=50 height=50 alt="Suhaib3100" style="margin-bottom: 5px;" />
+<a href="https://github.com/Adity0a" target="_blank">
+<img src="./github.png" width=50 height=50 alt="Adity0a" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.linkedin.com/in/suhaib-sz" target="_blank">
+<a href="https://www.linkedin.com/in/adityaa-mishra" target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 
