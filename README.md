@@ -263,7 +263,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Suhaib3100/Suhaib3100/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Adity0a/Adity0a/output/snake.svg" alt="Snake animation" />
 
 <!--Footer--> 
 <p align="center">
